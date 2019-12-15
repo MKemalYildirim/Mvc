@@ -1,0 +1,11 @@
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.Entities.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.Entities.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.Entities.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.Entities.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.Entities.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.Entities.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.Entities.csproj.CopyComplete

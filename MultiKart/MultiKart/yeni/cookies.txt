@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+snapppt.com	TRUE	/	FALSE	1999999999	ahoy_visitor	9b6ebcc0-6140-4a83-b05a-96648ac652cf
+snapppt.com	TRUE	/	FALSE	1999999999	ahoy_visit	f75a689a-1fcd-4387-b606-16171d724867
+

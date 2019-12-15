@@ -1,0 +1,61 @@
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csproj.CopyComplete
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.BusinessLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.Core.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.DataAccessLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.csproj.CopyComplete
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.BusinessLayer\obj\Debug\MultiKart.BusinessLayer.pdb

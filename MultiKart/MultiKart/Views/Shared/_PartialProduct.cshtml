@@ -1,0 +1,280 @@
+﻿@using MultiKart.EntityLayer
+@using MultiKart.BusinessLayer
+@using MultiKart.Models
+
+@{
+    List<Product> products = CacheHelper.GetProducts();
+
+
+}
+
+
+
+
+@foreach (Product product in products)
+{
+    if (product.Id == 1)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src=@product.Image1 class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src=@product.Image2 class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+    if (product.Id == 2)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image1" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image2" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+    if (product.Id == 3)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image1" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image2" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+    if (product.Id == 4)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image1" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image2" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+    if (product.Id == 5)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image1" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image2" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+    if (product.Id == 6)
+    {
+        <div class="product-box">
+
+
+            <div class="img-wrapper">
+                <div class="front">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image1" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="back">
+                    <a href="product-page(no-sidebar).html"><img src="@product.Image2" class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                </div>
+                <div class="cart-info cart-wrap">
+                    <button data-toggle="modal" data-target="#addtocart" title="Add to cart">
+                        <i class="ti-shopping-cart"></i>
+                    </button>
+                    <a href="javascript:void(0)" title="Add to Wishlist">
+                        <i class="ti-heart" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" data-toggle="modal" data-target="#quick-view" title="Quick View">
+                        <i class="ti-search" aria-hidden="true"></i>
+                    </a>
+                    <a href="compare.html" title="Compare">
+                        <i class="ti-reload" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="product-detail">
+                <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                <a href="product-page(no-sidebar).html">
+                    <h6>@product.Name</h6>
+                </a>
+                <h4>@product.Fiyat $</h4>
+                <ul class="color-variant">
+                    <li class="bg-light0"></li>
+                    <li class="bg-light1"></li>
+                    <li class="bg-light2"></li>
+                </ul>
+            </div>
+        </div>
+
+
+    }
+
+
+
+}
+
+
+

@@ -1,0 +1,33 @@
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csprojAssemblyReference.cache
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb

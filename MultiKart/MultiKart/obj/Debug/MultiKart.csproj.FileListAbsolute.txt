@@ -1,0 +1,283 @@
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csc.exe
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csc.exe.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csc.rsp
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csi.exe
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csi.exe.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\csi.rsp
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.AppContext.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Console.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.ValueTuple.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\vbc.exe
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\vbc.exe.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\vbc.rsp
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Antlr3.Runtime.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\EntityFramework.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\EntityFramework.SqlServer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Newtonsoft.Json.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Helpers.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Mvc.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Optimization.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Razor.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\WebGrease.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\EntityFramework.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\EntityFramework.SqlServer.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Helpers.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Mvc.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Optimization.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.Razor.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Newtonsoft.Json.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Antlr3.Runtime.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehme\source\repos\MultiKart\MultiKart\obj\Debug\MultiKart.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\MultiKart\MultiKart\obj\Debug\MultiKart.csproj.CopyComplete
+C:\Users\mehme\source\repos\MultiKart\MultiKart\obj\Debug\MultiKart.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\obj\Debug\MultiKart.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.EntityLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.Core.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.Core.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.pdb
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll.config
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Net.Http.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\FakeData.dll
+C:\Users\mehme\source\repos\MultiKart\MultiKart\bin\FakeData.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csc.exe
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csc.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csc.rsp
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csi.exe
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csi.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\csi.rsp
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.AppContext.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Console.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Net.Http.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.ValueTuple.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\vbc.exe
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\vbc.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\vbc.rsp
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Antlr3.Runtime.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\EntityFramework.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\EntityFramework.SqlServer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.Core.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Newtonsoft.Json.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Helpers.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Mvc.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Optimization.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Razor.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\WebGrease.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\FakeData.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.Core.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.EntityLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\EntityFramework.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\EntityFramework.SqlServer.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Newtonsoft.Json.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Helpers.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Mvc.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Optimization.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.Razor.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.xml
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\Antlr3.Runtime.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll.config
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\bin\FakeData.pdb
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\obj\Debug\MultiKart.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\obj\Debug\MultiKart.csproj.CopyComplete
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\obj\Debug\MultiKart.dll
+C:\Users\mehme\OneDrive\Masaüstü\MultiKart\MultiKart\obj\Debug\MultiKart.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csc.exe
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csc.exe.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csc.rsp
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csi.exe
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csi.exe.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\csi.rsp
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.AppContext.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Console.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Net.Http.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\vbc.exe
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\vbc.exe.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\vbc.rsp
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Antlr3.Runtime.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\EntityFramework.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.Core.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Newtonsoft.Json.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Helpers.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Mvc.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Optimization.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Razor.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\WebGrease.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.BusinessLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.Core.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.EntityLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.EntityLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\EntityFramework.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Newtonsoft.Json.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Helpers.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Mvc.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Optimization.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.Razor.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\Antlr3.Runtime.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.pdb
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\bin\MultiKart.DataAccessLayer.dll.config
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\obj\Debug\MultiKart.csprojAssemblyReference.cache
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\obj\Debug\MultiKart.csproj.CopyComplete
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\obj\Debug\MultiKart.dll
+C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart\obj\Debug\MultiKart.pdb

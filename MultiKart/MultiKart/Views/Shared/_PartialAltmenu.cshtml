@@ -1,0 +1,19 @@
+﻿@using MultiKart.EntityLayer
+@using MultiKart.BusinessLayer
+@using MultiKart.Models
+
+@{
+    List<AltMenu> altMenus = CacheHelper.GetAltMenus();
+
+
+}
+
+
+
+@foreach (AltMenu alt in altMenus)
+{
+    <a href="#"> @alt.Name </a>
+
+
+}
+

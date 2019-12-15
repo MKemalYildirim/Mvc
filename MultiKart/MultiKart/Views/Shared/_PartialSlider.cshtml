@@ -1,0 +1,35 @@
+﻿@using MultiKart.EntityLayer
+@using MultiKart.BusinessLayer
+
+@using MultiKart.Models
+
+@{
+    List<Slider> sliders = CacheHelper.GetSliders();
+
+
+}
+
+
+@foreach (Slider slider in sliders)
+{
+    
+
+    <div>
+        <div class="home  text-center">
+            <img src=@slider.SliderImg alt="" class="bg-img blur-up lazyload">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="slider-contain">
+                            <div>
+                                <h4>welcome to fashion</h4>
+                                <h1>@slider.Name</h1>
+                                <a href="#" class="btn btn-solid">shop now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

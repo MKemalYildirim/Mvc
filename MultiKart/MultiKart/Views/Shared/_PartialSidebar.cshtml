@@ -1,0 +1,18 @@
+﻿@using MultiKart.EntityLayer
+@using MultiKart.BusinessLayer
+
+@using MultiKart.Models
+
+@{
+    List<Sidebar> side = CacheHelper.GetSidebars();
+
+
+}
+
+
+@foreach (Sidebar bar in side)
+{
+    <li> <a href="#"> @bar.Name </a> </li>
+
+
+}

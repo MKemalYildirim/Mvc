@@ -1,0 +1,19 @@
+﻿@using MultiKart.EntityLayer
+@using MultiKart.BusinessLayer
+
+@using MultiKart.Models
+
+@{
+    List<Solmenu> solmenus = CacheHelper.GetSolmenus();
+
+
+}
+
+
+
+@foreach (Solmenu menu in solmenus)
+{
+    <a href="#"> @menu.Name </a>
+
+
+}
