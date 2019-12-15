@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiKart", "MultiKart\MultiKart.csproj", "{E80A729D-7848-46AC-9FC6-F00F9B470371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiKart.BusinessLayer", "MultiKart.BusinessLayer\MultiKart.BusinessLayer.csproj", "{7C30B976-2C82-403A-97B4-C56E8A474F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiKart.DataAccessLayer", "MultiKart.DataAccessLayer\MultiKart.DataAccessLayer.csproj", "{5A3355E6-1982-47DA-9993-FD2B8F528B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiKart.EntityLayer", "MultiKart.EntityLayer\MultiKart.EntityLayer.csproj", "{9D85A9B9-50E3-4F34-9008-48F1B77EAE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiKart.Core", "MultiKart.Core\MultiKart.Core.csproj", "{E7763065-E9D6-4079-8614-C5297AD0ED5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80A729D-7848-46AC-9FC6-F00F9B470371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80A729D-7848-46AC-9FC6-F00F9B470371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80A729D-7848-46AC-9FC6-F00F9B470371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80A729D-7848-46AC-9FC6-F00F9B470371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C30B976-2C82-403A-97B4-C56E8A474F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C30B976-2C82-403A-97B4-C56E8A474F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C30B976-2C82-403A-97B4-C56E8A474F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C30B976-2C82-403A-97B4-C56E8A474F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3355E6-1982-47DA-9993-FD2B8F528B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3355E6-1982-47DA-9993-FD2B8F528B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3355E6-1982-47DA-9993-FD2B8F528B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3355E6-1982-47DA-9993-FD2B8F528B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D85A9B9-50E3-4F34-9008-48F1B77EAE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D85A9B9-50E3-4F34-9008-48F1B77EAE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D85A9B9-50E3-4F34-9008-48F1B77EAE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D85A9B9-50E3-4F34-9008-48F1B77EAE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7763065-E9D6-4079-8614-C5297AD0ED5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7763065-E9D6-4079-8614-C5297AD0ED5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7763065-E9D6-4079-8614-C5297AD0ED5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7763065-E9D6-4079-8614-C5297AD0ED5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103A7A5F-1010-4731-A38E-09063086658B}
+	EndGlobalSection
+EndGlobal
