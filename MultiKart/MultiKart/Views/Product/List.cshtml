@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html>
+
+
+@model IEnumerable<MultiKart.EntityLayer.Product>
+
+@using MultiKart.Models;
+@using MultiKart.EntityLayer;
+
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_BLayout.cshtml";
+
+}
+
+
+<html>
+
+<!-- Mirrored from themes.pixelstrap.com/multikart/back-end/product-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Sep 2019 14:12:11 GMT -->
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Multikart admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities.">
+    <meta name="keywords" content="admin template, Multikart admin template, dashboard template, flat admin template, responsive admin template, web app">
+    <meta name="author" content="pixelstrap">
+    <link rel="icon" href="../yeni/themes.pixelstrap.com/multikart/assets/images/dashboard/favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../yeni/themes.pixelstrap.com/multikart/assets/images/dashboard/favicon.png" type="image/x-icon">
+    <title>Multikart - Premium Admin Template</title>
+
+    <!-- Google font-->
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Font Awesome-->
+    <link rel="stylesheet" type="text/css" href="../yeni/themes.pixelstrap.com/multikart/assets/css/fontawesome.css">
+
+    <!-- Flag icon-->
+    <link rel="stylesheet" type="text/css" href="../yeni/themes.pixelstrap.com/multikart/assets/css/flag-icon.css">
+
+    <!-- Themify icon-->
+    <link rel="stylesheet" type="text/css" href="../yeni/themes.pixelstrap.com/multikart/assets/css/themify-icons.css">
+
+    <!-- Bootstrap css-->
+    <link rel="stylesheet" type="text/css" href="../yeni/themes.pixelstrap.com/multikart/assets/css/bootstrap.css">
+
+    <!-- App css-->
+    <link rel="stylesheet" type="text/css" href="../yeni/themes.pixelstrap.com/multikart/assets/css/admin.css">
+
+</head>
+<body>
+
+    <!-- page-wrapper Start-->
+    <div class="page-wrapper">
+
+        <!-- Page Body Start-->
+        <div class="page-body-wrapper">
+
+
+
+            <div class="page-body">
+
+                <!-- Container-fluid starts-->
+                <div class="container-fluid">
+                    <div class="page-header">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="page-header-left">
+                                    <h3>
+                                        Product List
+                                        <small>Multikart Admin panel</small>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <ol class="breadcrumb pull-right">
+                                    <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i></a></li>
+                                    <li class="breadcrumb-item">Physical</li>
+                                    <li class="breadcrumb-item active">Product List</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Container-fluid Ends-->
+                <!-- Container-fluid starts-->
+                <div class="container-fluid">
+                    <div class="row products-admin ratio_asos">
+
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-xl-3 col-sm-6">
+                                <div class="card">
+                                    <div class="card-body product-box">
+                                        <div class="img-wrapper">
+                                            <div class="front">
+                                                <a href="#"><img src=@item.Image1 class="img-fluid blur-up lazyload bg-img" alt=""></a>
+                                                <div class="product-hover">
+                                                    <ul>
+                                                        <li>
+                                                            <button class="btn" type="button" data-original-title="" title=""><i class="ti-pencil-alt"></i></button>
+                                                        </li>
+                                                        <li>
+                                                            <button class="btn" type="button" data-toggle="modal" data-target="#exampleModalCenter" data-original-title="" title=""><i class="ti-trash"></i></button>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="product-detail">
+                                            <div class="rating"><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div>
+                                            <a href="#">
+                                                <h6>@item.Name</h6>
+                                            </a>
+                                            <h4>@item.Fiyat</h4>
+                                            <ul class="color-variant">
+                                                <li class="bg-light0"></li>
+                                                <li class="bg-light1"></li>
+                                                <li class="bg-light2"></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        }
+                    </div>
+                </div>
+                <!-- Container-fluid Ends-->
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <!-- latest jquery-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/jquery-3.3.1.min.js"></script>
+
+    <!-- Bootstrap js-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/popper.min.js"></script>
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/bootstrap.js"></script>
+
+    <!-- feather icon js-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/icons/feather-icon/feather.min.js"></script>
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/icons/feather-icon/feather-icon.js"></script>
+
+    <!-- Sidebar jquery-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/sidebar-menu.js"></script>
+
+    <!--Customizer admin-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/admin-customizer.js"></script>
+
+    <!-- lazyload js-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/lazysizes.min.js"></script>
+
+    <!--right sidebar js-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/chat-menu.js"></script>
+
+    <!--script admin-->
+    <script src="../yeni/themes.pixelstrap.com/multikart/assets/js/admin-script.js"></script>
+
+</body>
+
+<!-- Mirrored from themes.pixelstrap.com/multikart/back-end/product-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Sep 2019 14:12:15 GMT -->
+</html>
