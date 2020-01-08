@@ -20,11 +20,14 @@ namespace MultiKart.Controllers
         private ProductManager productManager = new ProductManager();
 
         Product product = new Product();
-        
+                   
         // GET: Product
         public ActionResult Index()
         {
-            return View();
+
+
+
+            return View(productManager.List());
         }
 
         [HttpPost]
@@ -34,21 +37,20 @@ namespace MultiKart.Controllers
 
 
 
-        
-
-
-
                 foreach (var item in files)
                 {
 
-                var fileName = Path.GetFileName(item.FileName);
 
-                var path = Path.Combine(Server.MapPath(""), fileName);
-
+              
+                   string path = Path.Combine(Server.MapPath("~/Content/images"), Guid.NewGuid().ToString() + "_" + Path.GetFileName(item.FileName));
+                    item.SaveAs(path);
                 
 
 
-               
+
+
+
+
 
                 if (product.Image1 == null)
                 {
@@ -86,7 +88,7 @@ namespace MultiKart.Controllers
 
             }
 
-
+                product.Category= form["ProductCategory"];
             product.Name = form["ProductIsim"];
             product.Fiyat = Convert.ToInt32(form["ProductFiyat"]);
             product.Toplam = form["ProductToplam"];
@@ -111,8 +113,32 @@ namespace MultiKart.Controllers
 
 
         }
-   
 
+        public ActionResult List() {
+
+            var product = productManager.List();
+            
+            
+        return View(product);
+        
+        
+        
+        
+        }
+        public ActionResult Product_Detail() {
+
+
+
+
+
+
+
+
+
+
+
+            return View();
+                }
 
     }
    

@@ -31,3 +31,25 @@ C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKar
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb
+C:\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csprojAssemblyReference.cache
+C:\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
+C:\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll.config
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\MultiKart.EntityLayer.pdb
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csprojAssemblyReference.cache
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.csproj.CopyComplete
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.EntityLayer\obj\Debug\MultiKart.EntityLayer.pdb

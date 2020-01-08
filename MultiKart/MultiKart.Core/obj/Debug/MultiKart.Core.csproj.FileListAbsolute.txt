@@ -8,3 +8,8 @@ C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.Core\bin\Debug\MultiKart.Core.
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.csprojAssemblyReference.cache
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.dll
 C:\Users\Mehmet Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.pdb
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.Core\bin\Debug\MultiKart.Core.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.Core\bin\Debug\MultiKart.Core.pdb
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.csprojAssemblyReference.cache
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.dll
+C:\Users\Mehmet_Kemal\Desktop\MultiKart\MultiKart.Core\obj\Debug\MultiKart.Core.pdb

@@ -19,8 +19,8 @@ namespace MultiKart.EntityLayer
 
         public string Toplam { get; set; }
 
-      
-     
+        public string Category { get; set; }
+
 
         public string Image1 { get; set; }
         public string Image2 { get; set; }

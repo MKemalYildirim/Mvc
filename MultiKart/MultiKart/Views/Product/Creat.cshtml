@@ -98,31 +98,95 @@
                                                 <div class="add-product">
                                                     <div class="row">
                                                         <div class="col-xl-9 xl-50 col-sm-6 col-9">
-                                                            <img src="../yeni/themes.pixelstrap.com/multikart/assets/images/pro3/27.jpg" alt="" class="img-fluid image_zoom_1 blur-up lazyloaded">
-                                                        </div>
-                                                        <div class="col-xl-3 xl-50 col-sm-6 col-3">
+                                                            <div class="col-xl-7">
+
+                                                              
 
 
-
-                                                            @*<form class="" action="/Product/Creat" method="post" enctype="multipart/form-data">*@
                                                                 <div class="form">
-                                                                    <ul class="file-upload-product">
-                                                                        <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
-                                                                        <li><div class="box-input-file"> <input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
-                                                                        <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
-                                                                        <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
-                                                                        <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
-                                                                        <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <div class="form-group mb-3 row">
+                                                                        <label for="validationCustom01" class="col-xl-3 col-sm-4 mb-0">Ad :</label>
+                                                                        <input class="form-control col-xl-8 col-sm-7" id="Productİsim" name="ProductIsim" type="text" required="">
+                                                                        <div class="valid-feedback">Looks good!</div>
+                                                                    </div>
+                                                                    <div class="form-group mb-3 row">
+                                                                        <label for="validationCustom01" class="col-xl-3 col-sm-4 mb-0">Kategori :</label>
+                                                                        <input class="form-control col-xl-8 col-sm-7" id="Category" name="ProductCategory" type="text" required="">
+                                                                        <div class="valid-feedback">Looks good!</div>
+                                                                    </div>
 
-                                                                    </ul>
+                                                                    <div class="form-group mb-3 row">
+                                                                        <label for="validationCustom02" class="col-xl-3 col-sm-4 mb-0">Fiyat :</label>
+                                                                        <input class="form-control col-xl-8 col-sm-7" id="ProductFiyat" name="ProductFiyat" type="text" required="">
+                                                                        <div class="valid-feedback">Looks good!</div>
+                                                                    </div>
+                                                                    <div class="form-group mb-3 row">
+                                                                        <label for="validationCustomUsername" class="col-xl-3 col-sm-4 mb-0">Ürün Kodu :</label>
+                                                                        <input class="form-control col-xl-8 col-sm-7" id="Id" name="ProductKodu" type="text" required="">
+                                                                        <div class="invalid-feedback offset-sm-4 offset-xl-3">Please choose Valid Code.</div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="form">
+                                                                    <div class="form-group row">
+                                                                        <label for="exampleFormControlSelect1" class="col-xl-3 col-sm-4 mb-0">Bedeni Seçiniz</label>
+                                                                        <select class="form-control digits col-xl-8 col-sm-7" name="ProductBeden" id="Beden">
+                                                                            <option>Small</option>
+                                                                            <option>Medium</option>
+                                                                            <option>Large</option>
+                                                                            <option>Extra Large</option>
+                                                                        </select>
+                                                                    </div>
+                                                                    <div class="form-group row">
+                                                                        <label class="col-xl-3 col-sm-4 mb-0">Toplam Ürün</label>
+                                                                        <fieldset class="qty-box col-xl-9 col-xl-8 col-sm-7 pl-0">
+                                                                            <div class="input-group">
+                                                                                <input name="ProductToplam" class="touchspin" type="text" value="1">
+                                                                            </div>
+                                                                        </fieldset>
+                                                                    </div>
 
-
+                                                                </div>
+                                                                <div class="offset-xl-3 offset-sm-4">
+                                                                    <button type="submit" class="btn btn-primary" formmethod="post">  Ekle</button>
+                                                                    <button type="button" class="btn btn-light">Discard</button>
                                                                 </div>
 
 
 
 
-                                                            @*</form>*@
+
+
+
+
+
+
+
+
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="col-xl-3 xl-50 col-sm-6 col-3">
+
+
+
+
+                                                            <div class="form">
+                                                                <ul class="file-upload-product">
+                                                                    <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <li><div class="box-input-file"> <input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+                                                                    <li><div class="box-input-file"><input class="upload" name="files" type="file"><i class="fa fa-plus"></i></div></li>
+
+                                                                </ul>
+
+
+                                                            </div>
+
+
+
+
 
 
 
@@ -136,65 +200,10 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xl-7">
-                                                @*<form class="needs-validation add-product-form">*@
 
+                                          
 
-                                                    <div class="form">
-                                                        <div class="form-group mb-3 row">
-                                                            <label for="validationCustom01" class="col-xl-3 col-sm-4 mb-0">Isim :</label>
-                                                            <input class="form-control col-xl-8 col-sm-7" id="Productİsim" name="ProductIsim" type="text" required="">
-                                                            <div class="valid-feedback">Looks good!</div>
-                                                        </div>
-                                                        <div class="form-group mb-3 row">
-                                                            <label for="validationCustom02" class="col-xl-3 col-sm-4 mb-0">Fiyat :</label>
-                                                            <input class="form-control col-xl-8 col-sm-7" id="ProductFiyat" name="ProductFiyat" type="text" required="">
-                                                            <div class="valid-feedback">Looks good!</div>
-                                                        </div>
-                                                        <div class="form-group mb-3 row">
-                                                            <label for="validationCustomUsername" class="col-xl-3 col-sm-4 mb-0">Ürün Kodu :</label>
-                                                            <input class="form-control col-xl-8 col-sm-7" id="Id" name="ProductKodu" type="text" required="">
-                                                            <div class="invalid-feedback offset-sm-4 offset-xl-3">Please choose Valid Code.</div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="form">
-                                                        <div class="form-group row">
-                                                            <label for="exampleFormControlSelect1" class="col-xl-3 col-sm-4 mb-0">Bedeni Seçiniz</label>
-                                                            <select class="form-control digits col-xl-8 col-sm-7" name="ProductBeden" id="Beden">
-                                                                <option>Small</option>
-                                                                <option>Medium</option>
-                                                                <option>Large</option>
-                                                                <option>Extra Large</option>
-                                                            </select>
-                                                        </div>
-                                                        <div class="form-group row">
-                                                            <label class="col-xl-3 col-sm-4 mb-0">Toplam Ürün</label>
-                                                            <fieldset class="qty-box col-xl-9 col-xl-8 col-sm-7 pl-0">
-                                                                <div class="input-group">
-                                                                    <input name="ProductToplam" class="touchspin" type="text" value="1">
-                                                                </div>
-                                                            </fieldset>
-                                                        </div>
-                                                  
-                                                    </div>
-                                                    <div class="offset-xl-3 offset-sm-4">
-                                                        <button type="submit" class="btn btn-primary" formmethod="post">  Ekle</button>
-                                                        <button type="button" class="btn btn-light">Discard</button>
-                                                    </div>
-
-
-
-                                                @*</form>*@
-
-
-
-
-
-
-
-
-
-                                            </div>
+                               
                                         </div>
                                     </div>
                                 </div>

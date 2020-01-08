@@ -129,7 +129,6 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Global.asax.cs">
@@ -2109,7 +2108,6 @@
     <Content Include="yeni\themes.pixelstrap.com\multikart\assets\fonts\themify9f24.woff" />
     <Content Include="yeni\themes.pixelstrap.com\multikart\assets\fonts\themifyd41d.eot" />
     <Content Include="Views\Shared\_BLayout.cshtml" />
-    <Content Include="Views\Category\Index.cshtml" />
     <Content Include="Views\Product\Creat.cshtml" />
     <Content Include="Scripts\umd\popper.min.js.map" />
     <Content Include="Scripts\umd\popper.js.map" />
@@ -2122,10 +2120,13 @@
     <Content Include="Scripts\popper-utils.min.js.map" />
     <Content Include="Scripts\popper-utils.js.map" />
     <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Product\List.cshtml" />
+    <Content Include="Views\Product\Product_Detail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Code\" />
     <Folder Include="App_Data\" />
+    <Folder Include="Content\images\" />
     <Folder Include="Image\" />
   </ItemGroup>
   <ItemGroup>
