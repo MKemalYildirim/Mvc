@@ -1,6 +1,7 @@
 ﻿using FileTransferProtocolLib;
 using FTPManager;
 using System;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -74,10 +75,14 @@ namespace hostt
             RefreshGet();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private async void button4_Click(object sender, EventArgs e)
         {
-            manager.UploadFile(textBox5.Text, textBox6.Text);
+
+            await Task.Run(() =>  manager.UploadFile(textBox5.Text, textBox6.Text));
+
+
             RefreshGet();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
