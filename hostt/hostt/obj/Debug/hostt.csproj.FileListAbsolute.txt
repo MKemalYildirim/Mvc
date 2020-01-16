@@ -1,0 +1,14 @@
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\hostt.exe.config
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\hostt.exe
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\hostt.pdb
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\FTPManager.dll
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\FileTransferProtocolLib.pdb
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\bin\Debug\FTPManager.pdb
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.csprojAssemblyReference.cache
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.Properties.Resources.resources
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.csproj.GenerateResource.cache
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.csproj.CopyComplete
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.exe
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.pdb
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.Manager.resources
+C:\Users\Mehmet_Kemal\source\repos\hostt\hostt\obj\Debug\hostt.Login.resources
