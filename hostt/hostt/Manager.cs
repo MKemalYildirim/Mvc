@@ -48,6 +48,7 @@ namespace hostt
         private void button7_Click(object sender, EventArgs e)
         {
             manager.Delete(textBox11.Text);
+
             RefreshGet();
         }
 
